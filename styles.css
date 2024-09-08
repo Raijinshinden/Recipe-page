@@ -3,7 +3,7 @@
 }
 
 .bg-color {
-    background-color: hsl(330, 100%, 98%);
+    background-color: hsl(330, 50%, 91%);
 }
 
 .image {
@@ -18,10 +18,7 @@
 }
 
 .recipe-page {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 250px;
-    margin-left: 250px;
+    margin: 150px;
     background-color: white;
     border-radius: 50px;
 }
