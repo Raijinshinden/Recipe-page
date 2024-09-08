@@ -1,3 +1,7 @@
+.width {
+    width: 1440px;
+}
+
 .bg-color {
     background-color: hsl(330, 100%, 98%);
 }
